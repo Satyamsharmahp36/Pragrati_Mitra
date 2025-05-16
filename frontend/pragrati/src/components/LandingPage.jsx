@@ -323,7 +323,7 @@ function LandingPage() {
                     }`}></div>
                   ))}
                 </div>
-                <span className="text-gray-400 text-sm">Trusted by <span className="text-cyan-400 font-semibold">10,000+</span> users</span>
+                <span className="text-gray-400 text-sm">Trusted by <span className="text-cyan-400 font-semibold">10+</span> users</span>
               </motion.div>
             </motion.div>
             
